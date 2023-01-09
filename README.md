@@ -22,8 +22,11 @@ v6 = 0
 For the references please visit [My personal site](https://zhanat.com) 
 
 - Biking
-- Traveling
+- Travelling
     - Local
     - International
 - Shopping
+- Coding
+    - Playjng with github formatting
+
 
