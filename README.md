@@ -27,6 +27,6 @@ For the references please visit [My personal site](https://zhanat.com)
     - International
 - Shopping
 - Coding
-    - Playjng with github formatting
+    - Playing with github formatting
 
 
