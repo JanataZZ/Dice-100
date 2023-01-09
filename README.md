@@ -23,5 +23,7 @@ For the references please visit [My personal site](https://zhanat.com)
 
 - Biking
 - Traveling
+    - Local
+    - International
 - Shopping
 
