@@ -1,8 +1,11 @@
 # Dice-100
 
 ## Second header
+
 **Bold text**
+
 *Italic text*
+
 ***All bold and Italic***
 > Text is a quote
 
